@@ -1,12 +1,20 @@
 用express框架搭建的一个简单的nodejs项目，实现图片的单张，多张上传和图片的预览功能
 
-git clone https://github.com/zifang/express-nodejs.git下载项目
+下载项目：
 
-git checkout dev切换项目到dev分支
+git clone https://github.com/zifang/express-nodejs.git
 
-npm install 安装相关的依赖
+切换项目到dev分支：
 
-npm run start 启动项目
+git checkout dev
+
+安装相关的依赖：
+
+npm install
+
+启动项目：
+
+npm run start 
 
 如下图所示上传图片：
 
